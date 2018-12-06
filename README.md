@@ -14,6 +14,6 @@ How to Run?
 1. Open first terminal and run python app_toaster.py
 2. Open second terminal
 3. Run:
-       python trigger.py l - signals lever down
-       python trigger.py c - signals cancel button pressed
-       python trigger.py s - stops the toster
+- python trigger.py l - signals lever down
+- python trigger.py c - signals cancel button pressed
+- python trigger.py s - stops the toster
